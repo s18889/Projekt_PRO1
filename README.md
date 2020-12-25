@@ -14,7 +14,7 @@ Przewidywanie Skali Przestępczości(rok 2020_2021)
  5. Wybór i wytrenowaie odpowiedniego regresora.
   - sieć neuronowa
   - drzewo regresyjne
-  - regresja liniowa
+  - regresja liniowa(wybrane)
  6. Test uzyskanego regresora dla wybranych metryk. Na przykład:
   - R Square/Adjusted R Square
   - Mean Square Error(MSE)/Root Mean Square Error(RMSE)
