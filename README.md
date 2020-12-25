@@ -3,15 +3,15 @@ Przewidywanie Skali Przestępczości(rok 2020_2021)
 
 ## To do:
 1. Pobranie danych z pliku do tablicy numpy. Można to zrobić przy pomocy numpy lub pandas.
-2. Usunięcie niepredykcyjnych atrybutów:
+2. Usunięcie niepredykcyjnych atrybutów:(zrobione)
   - state
   - county
   - community
   - communityname
   - fold
- 3. Selekcja istotnych atrybutów i normalizacja danych.
+ 3. Selekcja istotnych atrybutów i normalizacja danych.(Zrobione)
  4. Podział danych na zbór treningowy i testowy.
- 5. Wybór i wytrenowaie odpowiedniego regresora.
+ 5. Wybór(zrobione) i wytrenowaie odpowiedniego regresora.
   - sieć neuronowa
   - drzewo regresyjne
   - regresja liniowa(wybrane)
